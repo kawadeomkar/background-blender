@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>PATH</key>
+      <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:</string>
+    </dict>
+    <key>Label</key>
+    <string>com.startup.daemon</string>
+    <key>Program</key>
+    <string>/Users/omkar/scripts/background_blender/macos_daemon/startup.sh</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>LaunchOnlyOnce</key>        
+    <false/>
+    <key>StandardOutPath</key>
+    <string>/Users/omkar/scripts/background_blender/macos_daemon/logs/startup.daemon.stdout</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/omkar/scripts/background_blender/macos_daemon/logs/startup.daemon.stderr</string>
+    <key>ThrottleInterval</key>
+    <integer>900</integer>
+  </dict>
+</plist>

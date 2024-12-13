@@ -1,0 +1,204 @@
++ = omkar
+/Users/Omkar/Scripts/startup/startup.sh: line 6: =: command not found
++ =omkar
+/Users/Omkar/Scripts/startup/startup.sh: line 6: =omkar: command not found
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:01:36'
+++ whoami
++ echo '2024-12-11 21:01:36 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:03:19'
+++ whoami
++ echo '2024-12-11 21:03:19 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:13:31'
+++ whoami
++ echo '2024-12-11 21:13:31 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:21:32'
+++ whoami
++ echo '2024-12-11 21:21:32 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:39:36'
+++ whoami
++ echo '2024-12-11 21:39:36 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:41:25'
+++ whoami
++ echo '2024-12-11 21:41:25 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:56:26'
+++ whoami
++ echo '2024-12-11 21:56:26 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 08:12:21'
+++ whoami
++ echo '2024-12-12 08:12:21 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:11:18'
+++ whoami
++ echo '2024-12-12 15:11:18 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:26:18'
+++ whoami
++ echo '2024-12-12 15:26:18 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:41:18'
+++ whoami
++ echo '2024-12-12 15:41:18 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:56:19'
+++ whoami
++ echo '2024-12-12 15:56:19 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:11:19'
+++ whoami
++ echo '2024-12-12 16:11:19 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:26:19'
+++ whoami
++ echo '2024-12-12 16:26:19 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:41:19'
+++ whoami
++ echo '2024-12-12 16:41:19 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:56:20'
+++ whoami
++ echo '2024-12-12 16:56:20 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:11:20'
+++ whoami
++ echo '2024-12-12 17:11:20 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:26:20'
+++ whoami
++ echo '2024-12-12 17:26:20 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:41:20'
+++ whoami
++ echo '2024-12-12 17:41:20 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:18:04'
+++ whoami
++ echo '2024-12-12 18:18:04 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:33:05'
+++ whoami
++ echo '2024-12-12 18:33:05 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:48:05'
+++ whoami
++ echo '2024-12-12 18:48:05 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 19:03:05'
+++ whoami
++ echo '2024-12-12 19:03:05 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 21:17:55'
+++ whoami
++ echo '2024-12-12 21:17:55 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 22:44:20'
+++ whoami
++ echo '2024-12-12 22:44:20 - Updating wallpaper as root ... '
++ '[' 0 -eq 0 ']'
++ su - omkar -c '/usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py'
++ echo 'Successfully updated wallpaper'

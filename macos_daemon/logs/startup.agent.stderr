@@ -1,0 +1,475 @@
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-11 21:55:33'
+++ whoami
++ echo '2024-12-11 21:55:33 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/21-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 06:10:27'
+++ whoami
++ echo '2024-12-12 06:10:27 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/6-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:10:25'
+++ whoami
++ echo '2024-12-12 15:10:25 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/15-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:25:25'
+++ whoami
++ echo '2024-12-12 15:25:25 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/15-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:40:25'
+++ whoami
++ echo '2024-12-12 15:40:25 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/15-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 15:55:26'
+++ whoami
++ echo '2024-12-12 15:55:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/15-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:10:26'
+++ whoami
++ echo '2024-12-12 16:10:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/16-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:25:26'
+++ whoami
++ echo '2024-12-12 16:25:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/16-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:40:26'
+++ whoami
++ echo '2024-12-12 16:40:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/16-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 16:55:26'
+++ whoami
++ echo '2024-12-12 16:55:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/16-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:10:26'
+++ whoami
++ echo '2024-12-12 17:10:26 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/17-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:25:27'
+++ whoami
++ echo '2024-12-12 17:25:27 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/17-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 17:40:27'
+++ whoami
++ echo '2024-12-12 17:40:27 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/17-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:17:11'
+++ whoami
++ echo '2024-12-12 18:17:11 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/18-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:32:11'
+++ whoami
++ echo '2024-12-12 18:32:11 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/18-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 18:47:11'
+++ whoami
++ echo '2024-12-12 18:47:11 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/18-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 19:02:11'
+++ whoami
++ echo '2024-12-12 19:02:11 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/19-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 20:50:22'
+++ whoami
++ echo '2024-12-12 20:50:22 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/20-konbini.jpeg'))
++ USER=omkar
+++ date '+%Y-%m-%d %H:%M:%S'
++ TIMESTAMP='2024-12-12 22:43:25'
+++ whoami
++ echo '2024-12-12 22:43:25 - Updating wallpaper as omkar ... '
++ '[' 503 -eq 0 ']'
++ /usr/bin/python3 /Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py
+Traceback (most recent call last):
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 479, in __call__
+    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/aem/aemsend.py", line 92, in send
+    raise EventError(errornum, errormsg, eventresult)
+aem.aemsend.EventError: Command failed: The user has declined permission. (-1743)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/omkar/scripts/background_blender/macos_daemon/macos_daemon.py", line 10, in <module>
+    app('Finder').desktop_picture.set(mactypes.File(f'{BASE_PATH}/{IMG_DATASET}/generated/{NOW.hour}-{IMG_DATASET}.jpeg'))
+  File "/Users/omkar/Library/Python/3.9/lib/python/site-packages/aeosa/appscript/reference.py", line 515, in __call__
+    raise CommandError(self, (args, kargs), e, self.AS_appdata) from e
+appscript.reference.CommandError: Command failed:
+		OSERROR: -1743
+		MESSAGE: The user has declined permission.
+		COMMAND: app('/System/Library/CoreServices/Finder.app').desktop_picture.set(mactypes.File('/Users/omkar/scripts/background_blender/pictures/konbini/generated/22-konbini.jpeg'))
